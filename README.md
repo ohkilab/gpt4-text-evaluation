@@ -22,8 +22,8 @@ https://github.com/wi-pi/ai-selected-best-poster
 
 1. Clone the repository:
 ```bash
-git clone [repository URL]
-cd [repository name]
+git clone https://github.com/ohkilab/gpt4-text-evaluation
+cd gpt4-text-evaluation
 ```
 
 2. Set up environment variables:
